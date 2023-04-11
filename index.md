@@ -20,7 +20,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? `
 Type "yes"
 
 You should see something that looks like this
-
+\
 `# Now on remote server
 Last login: Sun Jan  2 14:03:05 2022 from 107-217-10-235.lightspeed.sndgca.sbcglobal.net
 quota: No filesystem specified.
@@ -36,13 +36,13 @@ ieng6-203   23:25:01   1  0.08,  0.15,  0.11`
 
 ## Lets run some commands!
 Here are some great commands to get started!
->`cd ~`
->`cd`
->`ls -lat`
->`ls -a`
->`ls <directory>` 
+>`cd ~`,
+>`cd`,
+>`ls -lat`,
+>`ls -a`,
+>`ls <directory>`, 
 > Also try running a command to read a text file!
 
 To log out of the server, you can run
-> Ctrl-D
+> Ctrl-D or 
 > Run command exit
